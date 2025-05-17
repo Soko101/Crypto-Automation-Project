@@ -3,6 +3,7 @@
 storing it over time to track price movements, volatility, and market trends.
 
 📌 What I Did
+
 ✅ API Automation
 
 - Connected to the CoinMarketCap API using Python (requests, json, pandas).
