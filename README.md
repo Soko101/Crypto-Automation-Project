@@ -21,11 +21,10 @@ storing it over time to track price movements, volatility, and market trends.
 
 📊 Exploratory Data Analysis (EDA)
 
-- Queried top coins like Bitcoin and Ethereum.
+- Queried top coins like Bitcoin.
 
 - Visualized price changes over time using seaborn and matplotlib.
 
 - Compared 24h, 7d, and 30d percent changes to see market momentum.
 
-- Calculated price volatility to understand which coins are most unstable.
 
